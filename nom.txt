@@ -1,0 +1,3 @@
+fichier1nom = 'mon avanture'
+fichier2nom = 'Fichier 2'
+fichier3nom = 'Fichier 3'
