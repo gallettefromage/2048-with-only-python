@@ -8,7 +8,7 @@ fenetre.geometry("720x480")
 fond = "light blue"
 fenetre.config(bg = fond)
 fenetre.title("2048")
-fenetre.iconbitmap("download.ico")
+fenetre.iconbitmap(chemin_actuel.replace("2048.py", "download.ico"))
 largeur = fenetre.winfo_width()
 hauteur = fenetre.winfo_height()
 
